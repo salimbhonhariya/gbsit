@@ -13533,6 +13533,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
+        "https://build.dnnsoftware.com/guestAuth/app/nuget/v1/FeedService.svc/": {},
         "https://nuget.devexpress.com/4ccN1MWgknuI8sSIHgne7ubLfIPsm5preZkOYEZmiUfPRVd6VA/api": {}
       },
       "frameworks": {
